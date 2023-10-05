@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pdequ\\Demo\\datingapp\\API\\API.csproj": {}
+    "C:\\Users\\pdequ\\Demo\\datingapp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pdequ\\Demo\\datingapp\\API\\API.csproj": {
+    "C:\\Users\\pdequ\\Demo\\datingapp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pdequ\\Demo\\datingapp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\pdequ\\Demo\\datingapp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\pdequ\\Demo\\datingapp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\pdequ\\Demo\\datingapp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\pdequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pdequ\\Demo\\datingapp\\API\\obj\\",
+        "outputPath": "C:\\Users\\pdequ\\Demo\\datingapp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
