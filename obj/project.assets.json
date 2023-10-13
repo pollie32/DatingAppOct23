@@ -1271,11 +1271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pdequ\\Demo\\Datingapp\\api\\API.csproj",
+      "projectUniqueName": "C:\\Users\\pdequ\\Datingapp\\DatingAppOct23\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\pdequ\\Demo\\Datingapp\\api\\API.csproj",
+      "projectPath": "C:\\Users\\pdequ\\Datingapp\\DatingAppOct23\\API.csproj",
       "packagesPath": "C:\\Users\\pdequ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pdequ\\Demo\\Datingapp\\api\\obj\\",
+      "outputPath": "C:\\Users\\pdequ\\Datingapp\\DatingAppOct23\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
